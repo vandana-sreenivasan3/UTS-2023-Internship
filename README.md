@@ -7,5 +7,7 @@ There are many CI/CD tools but some of them are GITLAB, Jenkins, Bamboo,CircleCI
 
 References:
 https://ieeexplore.ieee.org/abstract/document/7884954
+
 https://katalon.com/resources-center/blog/ci-cd-tools
+
 https://www.cisco.com/c/en/us/solutions/data-center/data-center-networking/what-is-ci-cd.html#~ci-cd-explained
